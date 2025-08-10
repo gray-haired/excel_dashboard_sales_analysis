@@ -18,3 +18,8 @@
 *   `sales_data_for_dashboard.xlsx`: Файл Excel с исходными данными, готовыми для построения дашборда, сводными таблицами и дашбордом.
 *   `generate_sales_data.py`: Python-скрипт для генерации синтетических данных.
 *   `sales_data.csv`: Исходные синтетические данные о продажах.
+
+## Дашборд в Excel
+
+![dashboard](https://github.com/user-attachments/assets/4b77a454-4237-4335-b313-f6596673d296)
+
